@@ -36,12 +36,12 @@ ordering, and real-time status updates with push notifications.
 
 ### 🖼️ Screenshots
 
-| ![Login](assets/images/login.png)               | ![OTP](assets/images/otp.png)                  | ![Home](assets/images/home.png) | ![Home1](assets/images/home1.png)                     |
-|-------------------------------------------------|------------------------------------------------|---|-------------------------------------------------------|
-| ![Add Product](assets/images/add_product.png)   | ![Best Seller](assets/images/bestseller.png)   | ![Search Product](assets/images/search_product.png) | ![Billing](assets/images/billing.png)                |
+| ![Login](assets/images/login.png)               | ![OTP](assets/images/otp.png)                   | ![Home](assets/images/home.png) | ![Home1](assets/images/home1.png)                     |
+|-------------------------------------------------|-------------------------------------------------|---|-------------------------------------------------------|
+| ![Add Product](assets/images/add_product.png)   | ![Best Seller](assets/images/bestseller.png)    | ![Search Product](assets/images/search_product.png) | ![Billing](assets/images/billing.png)                |
 | ![Payment](assets/images/payment.png) | ![Payment1](assets/images/payment1.png)         | ![Payment2](assets/images/payment2.png)        | ![Payment Status](assets/images/payment_status.png) |
-![Payment Success](assets/images/payment_success.png) | ![Edit Address](assets/images/edit_address.png) | ![Order Status](assets/images/order_status.png) | ![Orders](assets/images/orders.png) |
-| ![User Profile](assets/images/user_profile.png) | ![Logout](assets/images/logout.png)|                                                       |
+![Payment Success](assets/images/payment_success.png) |  ![Orders](assets/images/orders.png) | ![Order Status](assets/images/order_status.png) |
+| ![User Profile](assets/images/user_profile.png) | | ![Edit Address](assets/images/edit_address.png)  ![Logout](assets/images/logout.png)            |                                                       |
 
 
 ---
