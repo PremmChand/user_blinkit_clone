@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.BlinkitClone" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/yellow</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+
+        <item name="colorSurface">#FFFFFF</item>
+    </style>
+
+    <!-- App theme -->
+    <style name="Theme.BlinkitClone" parent="Base.Theme.BlinkitClone" />
+
+
+</resources>
